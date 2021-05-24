@@ -1,0 +1,41 @@
+{
+    "name": "vmap-svg",
+    "version": "0.1.0",
+    "description": "formform module to visualize vmaps in SVG format",
+    "keywords": [
+        "formform",
+        "vmap",
+        "formDNA",
+        "FORM logic",
+        "uFORM iFORM"
+    ],
+    "homepage": "https://formform.dev",
+    "author": {
+        "name": "Peter Hofmann",
+        "email": "peter.hofmann@formsandlines.eu",
+        "url": "https://formsandlines.eu"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/formsandlines/vmap-svg"
+    },
+    "browserslist": [
+        "defaults",
+        "not IE 11",
+        "not IE_Mob 11"
+    ],
+    "main": "dist/vmap-svg.js",
+    "unpkg": "dist/vmap-svg.min.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "webpack --config webpack.dev.js",
+        "build": "webpack --config webpack.prod.js"
+    },
+    "devDependencies": {
+        "eslint": "^7.27.0",
+        "eslint-plugin-compat": "^3.9.0",
+        "webpack": "^4.46.0",
+        "webpack-cli": "^3.3.12"
+    }
+}

@@ -4,7 +4,7 @@ module.exports = {
     mode: 'production',
     devtool: 'source-map',
     entry: {
-        vmap_svg: PATHS.src
+        ['vmap-svg']: PATHS.src
     },
     output: {
         path: PATHS.prod,

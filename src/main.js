@@ -5,7 +5,7 @@ import * as styles from './styles.js';
 export default { draw, drawPersp, drawList };
 
 // ===================================================================
-//     formform core module 'vmap-svg'
+//     formform module 'vmap-svg'
 //     -- since 2020, by Peter Hofmann (formsandlines.eu)
 // ===================================================================
 

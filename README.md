@@ -16,10 +16,10 @@ npm install vmap_svg
 
 ```js
 // ES6:
-import vmap_svg from 'vmap_svg';
+import vmap_svg from 'vmap-svg';
 
 // CommonJS:
-let vmap_svg = require('vmap_svg');
+let vmap_svg = require('vmap-svg');
 ```
 
 You can then use the module like this:

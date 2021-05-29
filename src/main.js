@@ -1,4 +1,4 @@
-import { processLabel, getSvgSize, breakStr, svgLinebreak } from './common/helper';
+import { processLabel, getSvgSize, breakStr, svgLinebreak } from 'formsandlines-utils';
 
 import * as styles from './styles.js';
 

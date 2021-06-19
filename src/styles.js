@@ -24,4 +24,4 @@ vmap.basic = {
 };
 vmap.basic.applyStyles = function() {
 
-}
+};

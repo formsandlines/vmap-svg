@@ -1,6 +1,6 @@
 {
     "name": "vmap-svg",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "formform module to visualize vmaps in SVG format",
     "keywords": [
         "formform",
@@ -35,8 +35,8 @@
     "devDependencies": {
         "eslint": "^7.27.0",
         "eslint-plugin-compat": "^3.9.0",
-        "webpack": "^4.46.0",
-        "webpack-cli": "^3.3.12"
+        "webpack": "^5.39.1",
+        "webpack-cli": "^4.7.2"
     },
     "dependencies": {
         "formsandlines-utils": "^0.1.1"

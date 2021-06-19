@@ -22,6 +22,6 @@ vmap.basic = {
     ...basic,
     ...vmap.common,
 };
-vmap.basic.applyStyles = function() {
+vmap.basic.applyStyles = function() {
 
 }
